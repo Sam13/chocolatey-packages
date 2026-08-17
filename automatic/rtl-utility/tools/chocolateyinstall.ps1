@@ -5,8 +5,8 @@ $packageArgs = @{
   url            = 'https://oblique-audio.com/downloads/RTL_Utility_1_0_12_Win32.exe'
   checksum       = 'de2a5ff3a3949ebaaa69bb83a2976579351b0f2e8e4580526b6c1018bfc216dd'
   checksumType   = 'sha256'
-  url64          = 'https://oblique-audio.com/downloads/RTL_Utility_1_0_12_x64.exe'
-  checksum64     = '0b095799fe3cf3e6055a56cf799eec53e9f5f65f0d3a65ddc77e7b2698a87b47'
+  url64          = 'https://oblique-audio.com/downloads/RTL_Utility_1_0_13_x64.exe'
+  checksum64     = '0cab329b126adf9dfa2e5c026f844d2e7a0b98a77d61ed42a423cf36e7682808'
   checksumType64 = 'sha256'
 }
 
